@@ -1,0 +1,31 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+.btn {
+  background-color: #5cb85f;
+}
+
+/* Hero Section */
+#hero {
+  background-color: #f1f3ffff;
+}
+
+/* Testimonial Section */
+#testimonial .owl-stage {
+  transition: all 0.2s ease-in 1s;
+  transform: translate3d(-500px, 0px, 0px);
+}
+
+.owl-carousel .card {
+  background-color: #f1f3ff;
+}
+
+#testimonial .custom-img-testi {
+  width: 80px;
+}
+
+/* CTA Banner Section */
+#cta-banner .container {
+  background-color: #0d28a6;
+}
